@@ -1,7 +1,6 @@
 /*
     Name:   Josh Heyer
-    Class:  CSCI 2240
-    Assign: Program #5
+    Email:  joshuaray83@gmail.com
 
     Function: This program interacts with the server program to "get" student
     files sorted by last name, first name, student ID, or GPA. It can create
