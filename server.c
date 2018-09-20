@@ -1,7 +1,6 @@
 /*
     Name:   Josh Heyer
-    Class:  CSCI 2240
-    Assign: Program #5
+    Email:  joshuaray83@gmail.com
 
     Function: This program interacts with the client program to edit and save
     information from a database of students. Each student has a last name,
